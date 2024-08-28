@@ -18,7 +18,7 @@ uvicorn main:app --reload
 
 
 
-To test  API endpoints using curl 
+## To test  API endpoints using curl 
 
 Below are the curl commands for testing each endpoint.
 
